@@ -1,0 +1,46 @@
+
+/*----------------
+ start media section (max-width 770px)
+ ----------------- */
+
+@media all and (max-width:770px){
+	.header .navbar ul li{
+		margin-top:1rem;
+
+	}
+	.ul-ux{
+		width:70%;
+	}
+	.jobt h2{
+		font-size:1rem;
+	}
+	.form-group{
+		width:75%;
+	}
+	.form-input .name{
+		width:90%;
+		margin-right:0;
+	}
+	.form-input .name2{
+		width:90%;
+		margin-left:0;
+		
+	}
+}
+/*--------------
+ 2nd media section (max-width--1101px)
+ ---------------*/
+@media all and (max-width:1101px){
+	.form-group{
+		width:70%;
+	}
+	.form-input .name{
+		width:90%;
+		margin-right:0;
+	}
+	.form-input .name2{
+		width:90%;
+		margin-left:0;
+		
+	}
+}
